@@ -1,10 +1,11 @@
-let i = 3;
+/*let i = 3;
 
 while (i) {
   alert( i-- );
 }
+*/
 
-i = 3;
+let i = 3;
 
 alert(i--); // shows 3, decreases i to 2
 
